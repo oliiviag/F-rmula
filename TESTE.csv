@@ -1,4 +1,4 @@
-TIME,RPM,TPS,Distância,Temp. do motor,Pressão de Combustível,Eletroventilador 1,Velocidade de referência
+TIME,RPM,TPS,Dist,Tempmotor,Pressão de Combustível,Eletroventilador 1,Velocidade de referência
 1374.460,7919,56.4,10494.03,94.2,2.83,ON,32.6
 1374.500,8308,56.2,10494.40,93.8,2.83,ON,33.5
 1374.540,8596,56.3,10494.78,93.7,2.83,ON,33.8
